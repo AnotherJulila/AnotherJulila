@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnotherJulila
 - 👀 I’m interested in Software Development, Economics, Data Science
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and going to take part on RSS School 
 - 💞️ I’m looking to collaborate on Open Source Projects that do not track users data 
 - 📫 How to reach me i will tell you later
 
